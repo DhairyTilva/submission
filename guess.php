@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
 <head>
-    <title>2dfb6bf5</title>
+    <title>'2dfb6bf5'</title>
 </head>
 <body>
 <?php
