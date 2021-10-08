@@ -1,8 +1,6 @@
 <html>
-<head>
-    <title>'2dfb6bf5'</title>
-</head>
 <body>
+    <title>2dfb6bf5</title>
 <?php
 $correctnumber = 42; //change this number //
     if(isset($_GET['guess']))
