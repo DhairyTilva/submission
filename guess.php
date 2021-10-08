@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <head>
     <title>'2dfb6bf5'</title>
 </head>
